@@ -1,0 +1,3 @@
+
+def check_eligibility(attendance_pct):
+    return attendance_pct >= 75
