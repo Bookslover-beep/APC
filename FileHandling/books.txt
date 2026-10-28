@@ -1,0 +1,3 @@
+B101|Python Crash Course|Eric Matthes|Available
+B102|Clean Code|Robert C. Martin|Issued
+B103|Data Structures and Algorithms|Narasimha Karumanchi|Available
